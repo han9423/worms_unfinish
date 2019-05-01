@@ -3,7 +3,7 @@ const mysql = require("mysql");
 exports.db = mysql.createConnection({
     user : "root",
     url : "localhost",
-    password : "outlook9423",
+    password : "8888888888",
     database : "worms"
 })
 
